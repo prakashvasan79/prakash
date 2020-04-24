@@ -1,1 +1,2 @@
 This file is pushed to new branch
+Now merged to master
